@@ -1,0 +1,5 @@
+Node 1: left=2 right=3
+Node 2: left=4 right=5
+Node 3: left=None right=None
+Node 4: left=None right=None
+Node 5: left=None right=None
