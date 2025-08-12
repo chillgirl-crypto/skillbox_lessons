@@ -1,0 +1,15 @@
+{"time": "15:02:25", "level": 0, "message": "��������� � \"���������\" � ���������\n������"}
+{"time": "15:05:16", "level": 0, "message": "Сообщение с \"кавычками\" и переносом\nстроки"}
+{"time": "15:06:37", "level": "NOTSET", "message": "Это \"тестовое\" сообщение с кавычками и переносом\nстроки!"}
+{"time": "15:06:37", "level": "NOTSET", "message": "Warning: проверьте данные."}
+{"time": "15:07:18", "level": 0, "message": "Сообщение с \"кавычками\" и переносом \nстроки"}
+{"time": "19:11:01", "level": "NOTSET", "message": "Это \"тестовое\" сообщение с кавычками и переносом\nстроки!"}
+{"time": "19:11:01", "level": "NOTSET", "message": "Warning: проверьте данные."}
+{"time": "19:11:02", "level": "NOTSET", "message": "Это \"тестовое\" сообщение с кавычками и переносом\nстроки!"}
+{"time": "19:11:02", "level": "NOTSET", "message": "Warning: проверьте данные."}
+{"time": "15:01:51", "level": "NOTSET", "message": "This is a \"text\" message with quotes and \nline breaks!"}
+{"time": "15:01:51", "level": "NOTSET", "message": "Warning: check the data."}
+{"time": "15:02:06", "level": 0, "message": "Message with \"quotes\" and \nline breaks"}
+{"time": "15:02:08", "level": 0, "message": "Message with \"quotes\" and \nline breaks"}
+{"time": "15:07:15", "level": 0, "message": "Message with \"quotes\" and \nline breaks"}
+{"time": "15:07:22", "level": 0, "message": "Message with \"quotes\" and \nline breaks"}
